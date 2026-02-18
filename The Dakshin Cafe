@@ -1,0 +1,6 @@
+<div class="card">
+<img src="https://source.unsplash.com/300x200/?dosa" width="100%">
+<h3>Masala Dosa</h3>
+<div class="price">₹80</div>
+<button onclick="addToCart('Masala Dosa',80)">Add</button>
+</div>
